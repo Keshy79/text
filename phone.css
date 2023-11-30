@@ -1,0 +1,74 @@
+@media screen and (max-width: 475px) {
+    overf
+    
+    .edo-img {
+        padding: 0px 0px;
+        background-color: #f2f3fe;
+    }
+
+    .demo {
+        /* padding-right: 50px; */
+       
+    }
+    .here {
+        background-color: #f2f3fe;
+        padding: 0px 0px;
+    }
+    .pla-demo {
+        color: #1b1642;
+        background-color: white;
+        padding: 10px;
+        border: none;
+        margin-right: 0px;
+        
+        /* padding: 50px 50px; */
+    }
+    .demo {
+        padding-right: 0px;
+       
+    }
+    .solution {
+        padding-left: 0px;
+    }
+    .smart {
+        font-size: 25px;
+        text-align: center;
+    }
+    .manag{
+        font-size: 30px;
+        text-align: center;
+    }
+    .not {
+        color: #1b1642;
+        /* text-align: center; */
+        font-size: 20px;
+    }
+    .rome {
+        padding: 0px 0px;
+        /* align-items: center; */
+    }
+    .school {
+        color: gray;
+        font-size: 10px;
+    }
+    .edd {
+        width: 200px;
+    }
+    .we {
+        /* text-align: center; */
+        font-size: 10px;
+    }
+    .header {
+        width: 250px;
+        height: 300px;
+    }
+    .you {
+        color: gray;
+        background-color: #d0d8fc;
+        font-size: 5px;
+        width: 100px;
+        height: 30px;
+        border: none;
+        align-items: center;
+    }
+}
