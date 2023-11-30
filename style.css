@@ -152,7 +152,14 @@
     
 }
 .chose{
-    padding: 0 60px;
+    padding: 20px 120px;
+}
+.why {
+    color: #1b1642;
+}
+.client{
+    font-weight: 250px;
+    color: #1b1642;
 }
 .need {
     border: 1px solid white;
@@ -161,4 +168,7 @@
     box-shadow: 0 0 30px #1b1642;
     margin-bottom: 30px;
     text-align: center;
+}
+.need p a{
+    text-decoration: none;
 }
