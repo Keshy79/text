@@ -135,3 +135,18 @@
     font-weight: 500;
     padding-left: 50px;
 }
+.ima {
+    padding: 20px 100px;
+    
+}
+.service{
+    border-radius: 10px;
+    
+}
+.primary{
+    padding: 10px 30px;
+    font-weight: 600;
+    color: #1b1642;
+    text-align: center;
+    
+}
