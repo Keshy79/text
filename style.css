@@ -151,3 +151,14 @@
     text-align: center;
     
 }
+.chose{
+    padding: 0 60px;
+}
+.need {
+    border: 1px solid white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 30px #1b1642;
+    margin-bottom: 30px;
+    text-align: center;
+}
